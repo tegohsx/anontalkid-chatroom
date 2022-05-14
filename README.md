@@ -3,13 +3,13 @@ anonymouse chatroom on telegram
 
 
 # Commands:
-start - start bot / ꦩꦼꦩꦸꦭꦻꦧꦺꦴꦠ꧀ <br />
-join - join to a public room / ꦧꦼꦂꦒꦧꦸꦁꦏꦼꦫꦸꦩ꧀ꦥꦸꦧ꧀ꦭꦶꦏ꧀꧈ꦄꦕꦏ꧀ <br />
-exit - exit from room / ꦏꦼꦭꦸꦮꦂꦝꦫꦶꦫꦸꦩ꧀ <br />
+start - start bot <br />
+join - join to a public room <br />
+exit - exit from room <br />
 rooms - show all public room in this language <br />
-avatar - change your avatar / ꦩꦼꦁꦔ꧀ꦒꦤ꧀ꦠꦶꦄꦥ꦳ꦠꦂ <br />
-lang - change your language / ꦩꦼꦁꦔ꧀ꦒꦤ꧀ꦠꦶꦧꦲꦱ <br />
-donate - make a donation / ꦩꦼꦩ꧀ꦧꦼꦫꦶꦏꦤ꧀ꦢꦺꦴꦤꦱꦶ <br />
+avatar - change your avatar <br />
+lang - change your language <br />
+donate - make a donation <br />
 help - show all commands <br />
 
 
