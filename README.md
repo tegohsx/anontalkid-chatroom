@@ -27,4 +27,3 @@ Configure your server <br/>
 Set webhook, bot token as URI<br/>
 <br/><br/>
 
-http://t.me/anontalkid_bot
